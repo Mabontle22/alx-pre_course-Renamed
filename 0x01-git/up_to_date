@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-echo words > up_to_date
-=======
+On branch master
+Your branch is up to date with 'origin/master'.
 
-$ echo "echo "words" > up_to_date" > up_to_date
-$ git add .
-$ git commit -m 'create file"
-$ git push
->>>>>>> 7efff1fba6c1bb7c16b543cc987df2c99dda1dab
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   up_to_date
+
+no changes added to commit (use "git add" and/or "git commit -a")
+uptp date too
