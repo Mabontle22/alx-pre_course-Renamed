@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 echo words > up_to_date
+=======
+
+$ echo "echo "words" > up_to_date" > up_to_date
+$ git add .
+$ git commit -m 'create file"
+$ git push
+>>>>>>> 7efff1fba6c1bb7c16b543cc987df2c99dda1dab
