@@ -1,2 +1,5 @@
 
-echo "echo "words" > up_to_date" > up_to_date
+$ echo "echo "words" > up_to_date" > up_to_date
+$ git add .
+$ git commit -m 'This is my update"
+$ git push
